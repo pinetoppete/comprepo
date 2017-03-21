@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "peter/package-name": {
+      "dev-master": {
+        "name": "peter/package-name",
+        "version": "dev-master",
+        "dist": {
+            "url": "packages/peter/package-name/",
+            "type": "library"
+        }
+      }
+    }
+  }
+}

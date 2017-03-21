@@ -1,0 +1,12 @@
+{
+    "name" : "peter/package-name",
+    "description" : "only a test package",
+    "license" : "MIT",
+    "type" : "symfony-bundle",
+    "keywords" : [
+        "peter"
+    ],
+    "require": {
+        "php" : ">=5.3"
+    }
+}
