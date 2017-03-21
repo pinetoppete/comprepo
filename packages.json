@@ -5,7 +5,7 @@
         "name": "peter/package-name",
         "version": "dev-master",
         "dist": {
-            "url": "packages/peter/package-name/",
+            "url": "/packages/peter/package-name/",
             "type": "library"
         }
       }
